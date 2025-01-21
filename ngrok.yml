@@ -1,4 +1,6 @@
-version: 2
+agent:
+  authtoken: 2rwttQN1lT4EyXvpslGqXBGh1m7_7c9eiSXRU8QsWf48SDGPA
+
 tunnels:
   sonar:
     addr: http://localhost:9000
